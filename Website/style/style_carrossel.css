@@ -1,0 +1,37 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #000;
+}
+
+.carousel {
+    transition: translateY(-150px);
+    height: 400px;
+    perspective: 200px;
+    width: 300px;
+}
+
+.carousel .carousel-item img {
+    width: 300%;
+}
+
+.carousel .carousel-item h3 {
+    margin: 0;
+    padding: 0;
+    transition: .8s;
+}
+
+.carousel .carousel-item:hover h3 {
+
+    transition: .8s;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #000;
+    box-sizing: border-box;
+    padding: 10px 5px;
+    font-weight: bold;
+    text-align: center;
+}

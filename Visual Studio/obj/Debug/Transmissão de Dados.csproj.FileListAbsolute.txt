@@ -1,0 +1,70 @@
+C:\Users\210329\Downloads\Transmissão de Dados\bin\Debug\Transmissão de Dados.exe.config
+C:\Users\210329\Downloads\Transmissão de Dados\bin\Debug\Transmissão de Dados.exe
+C:\Users\210329\Downloads\Transmissão de Dados\bin\Debug\Transmissão de Dados.pdb
+C:\Users\210329\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.csprojAssemblyReference.cache
+C:\Users\210329\Downloads\Transmissão de Dados\obj\Debug\Transmissão_de_Dados.Form1.resources
+C:\Users\210329\Downloads\Transmissão de Dados\obj\Debug\Transmissão_de_Dados.Properties.Resources.resources
+C:\Users\210329\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.csproj.GenerateResource.cache
+C:\Users\210329\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.csproj.CoreCompileInputs.cache
+C:\Users\210329\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.exe
+C:\Users\210329\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.pdb
+C:\Users\210315\Downloads\Transmissão de Dados\bin\Debug\Transmissão de Dados.exe.config
+C:\Users\210315\Downloads\Transmissão de Dados\bin\Debug\Transmissão de Dados.exe
+C:\Users\210315\Downloads\Transmissão de Dados\bin\Debug\Transmissão de Dados.pdb
+C:\Users\210315\Downloads\Transmissão de Dados\obj\Debug\Transmissão_de_Dados.Form1.resources
+C:\Users\210315\Downloads\Transmissão de Dados\obj\Debug\Transmissão_de_Dados.Properties.Resources.resources
+C:\Users\210315\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.csproj.GenerateResource.cache
+C:\Users\210315\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.csproj.CoreCompileInputs.cache
+C:\Users\210315\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.exe
+C:\Users\210315\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.pdb
+C:\Users\210315\Downloads\Transmissão de Dados\obj\Debug\Transmissão de Dados.csproj.AssemblyReference.cache
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe.config
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\bin\Debug\Transmissão de Dados.pdb
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.AssemblyReference.cache
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Form1.resources
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Properties.Resources.resources
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.GenerateResource.cache
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.CoreCompileInputs.cache
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\obj\Debug\Transmissão de Dados.exe
+C:\Users\210315\Downloads\Comunicações 27-11-23\Visual Studio\obj\Debug\Transmissão de Dados.pdb
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe.config
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\bin\Debug\Transmissão de Dados.pdb
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Form1.resources
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Properties.Resources.resources
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\obj\Debug\Transmissão de Dados.exe
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 28-11-23\Visual Studio\obj\Debug\Transmissão de Dados.pdb
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe.config
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\bin\Debug\Transmissão de Dados.pdb
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.AssemblyReference.cache
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Form1.resources
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Properties.Resources.resources
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.GenerateResource.cache
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.CoreCompileInputs.cache
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.exe
+C:\Users\moise_000\Music\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.pdb
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe.config
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\bin\Debug\Transmissão de Dados.exe
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\bin\Debug\Transmissão de Dados.pdb
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Form1.resources
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Properties.Resources.resources
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.exe
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 29-11-23\Visual Studio\obj\Debug\Transmissão de Dados.pdb
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\bin\Debug\Transmissão de Dados.exe.config
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\bin\Debug\Transmissão de Dados.exe
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\bin\Debug\Transmissão de Dados.pdb
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.AssemblyReference.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Form1.resources
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\obj\Debug\Transmissão_de_Dados.Properties.Resources.resources
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.GenerateResource.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\obj\Debug\Transmissão de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\obj\Debug\Transmissão de Dados.exe
+C:\Users\Usuario\Pictures\TCC organizado\Comunicações 02-12-23\Visual Studio\obj\Debug\Transmissão de Dados.pdb

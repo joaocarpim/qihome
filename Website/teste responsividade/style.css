@@ -1,0 +1,244 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+@font-face{
+  font-family:'tech';
+  src: url('../fonts/neuropolitical\ rg.otf') format(opentype);
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  --header-height: 3.5rem;
+
+  --first-color: hsl(228, 66%, 53%);
+  --first-color-alt: hsl(228, 66%, 47%);
+  --first-color-light: hsl(228, 62%, 59%);
+  --first-color-lighten: hsl(0, 0%, 6%);
+  --second-color: hsl(25, 83%, 53%);
+  --title-color: hsl(228, 57%, 28%);
+  --color-logo: #e48328;
+  --color-logo1: hsl(228, 57%, 28%);
+  --text-color: hsl(228, 15%, 50%);
+  --text-color-light: hsl(228, 12%, 75%);
+  --border-color: hsl(0, 0%, 6%);
+  --body-color: hsl(0, 0%, 6%);
+  --container-color: hsl(229, 24%, 82%);
+
+  --body-font: 'Poppins', sans-serif;
+  --biggest-font-size: 2.25rem;
+  --h1-font-size: 1.5rem;
+  --h2-font-size: 1.25rem;
+  --h3-font-size: 1rem;
+  --normal-font-size: .938rem;
+  --small-font-size: .813rem;
+  --smaller-font-size: .75rem;
+
+  --color-neutral-0: #0e0c0c;
+    --color-neutral-10: #131212;
+    --color-neutral-30: #a8a29e;
+    --color-neutral-40: #f5f5f5;
+
+  --font-medium: 500;
+  --font-semi-bold: 600;
+
+  --z-tooltip: 10;
+  --z-fixed: 100;
+}
+
+@media screen and (min-width: 1024px) {
+  :root {
+    --biggest-font-size: 4rem;
+    --h1-font-size: 2.25rem;
+    --h2-font-size: 1.5rem;
+    --h3-font-size: 1.25rem;
+    --normal-font-size: 1rem;
+    --small-font-size: .875rem;
+    --smaller-font-size: .813rem;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  background-color: var(--body-color);
+  color: var(--text-color);
+  transition: .3s; 
+}
+h2 {
+  color: #fff;
+  font-weight: var(--font-semi-bold);
+}
+h1, h3 {
+  color: #9ca6df8e;
+  font-weight: var(--font-semi-bold);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+input,
+button {
+  font-family: var(--body-font);
+  outline: none;
+  border: none;
+}
+
+.container {
+  max-width: 1024px;
+  margin-left: 35rem;
+  margin-right: 35rem;
+}
+.grid {
+  display: grid;
+}
+.section {
+  padding: 4.5rem 0 2rem;
+}
+.section__title {
+  font-size: var(--h2-font-size);
+  margin-bottom: 1rem;
+}
+.section__title span {
+  color: var(--second-color);
+}
+.section__subtitle {
+  display: block;
+  font-size: var(--small-font-size);
+  color: var(--second-color);
+}
+.nav__button {
+  margin-right: 50px; 
+}
+.main {
+  overflow: hidden; /* For the animations ScrollReveal*/
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.851);
+  box-shadow: 0 -10px 50px rgba(252, 252, 252, 0.753);
+  padding: 1px;
+  z-index: var(--z-fixed);
+  transition: .4s;
+}
+
+
+
+
+footer {
+  width: 100%;
+  color: var(--color-neutral-40);
+  font-family: 'Inter', sans-serif;
+}
+.footer__link {
+  text-decoration: none;
+}
+#footer__content {
+  background-color: var(--color-neutral-10);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 3rem 3.5rem;
+}
+#footer__contacts h1 {
+  margin-bottom: 0.75rem;
+}
+#footer__social-media {
+  display: flex;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+#footer__social-media .footer__link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.5rem;
+  width: 2.5rem;
+  color: var(--color-neutral-40);
+  border-radius: 50%;
+  transition: all 0.4s;
+}
+#footer__social-media .footer__link i {
+  font-size: 1.25rem;
+}
+.footer__social-media .footer__link:hover {
+  opacity: 0.8;
+}    
+  #instagram {
+    background: linear-gradient(#7f37c9, #ff2992, #ff9807);
+  }
+  #facebook {
+      background-color: #4267b3;
+  }
+  #whatsapp {
+      background-color: #d8d0d0;
+  }
+
+.footer__list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  list-style: none;
+}
+.footer__list .footer__link {
+  color: var(--color-neutral-30);
+  transition: all 0.4s;
+}
+.footer__list .footer__link:hover {
+  color: #7f37c9;
+}
+.footer__subscribe {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.footer__subscribe p {
+  color: var(--color-neutral-30);
+}
+#footer__copyright {
+  display: flex;
+  justify-content: center;
+  background-color: var(--color-neutral-0);
+  font-size: 0.9rem;
+  padding: 1.5rem;
+  font-weight: 100;
+}
+
+@media screen and (max-width: 768px) {
+  #footer__content {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 2rem;
+  }
+}
+
+@media screen and (max-width: 426px) {
+  #footer__content {
+      grid-template-columns: repeat(1, 1fr);
+      padding: 3rem 2rem;
+  }
+}
